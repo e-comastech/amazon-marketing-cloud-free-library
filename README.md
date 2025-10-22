@@ -6,7 +6,7 @@ An open-source collection of battle-tested AMC SQL queries to accelerate your Am
 
 Amazon Marketing Cloud is powerful but underutilized. We're changing that by sharing production-ready queries that have driven real results for brands on Amazon.
 
-**Built by practitioners, for practitioners** - These aren't theoretical examples. Every query here has been refined through real-world use at [e-Comas](https://e-comas.tech), where we manage €500M+ in annual Amazon sales.
+**Built by practitioners, for practitioners** - These aren't theoretical examples. Every query here has been refined through real-world use at [e-Comas](https://e-comas.com).
 
 ## 🚀 Quick Start
 
